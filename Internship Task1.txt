@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+        <title> My Website</title>
+    </head>
+    <style>
+        h1{
+            font-family: Arial;
+            font-size: 30px;
+            font-weight: bold;
+            color: blue;
+            text-align: center;
+        }
+        p {
+            font-family: italic;
+            color: black;
+            font-size: 20px;
+            text-align: left;
+            line-height: 1.6;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+    </style>
+    <body>
+
+        <h1>Shashirekha</h1>
+        <img src="C:\Users\kshas\Downloads\beautiful-young-indian-woman-student-600nw-2435890489.webp" width="300px" height="200px">
+
+        <p> Hello! I'm a recent graduate currently pursuing Master's in computers to work in an environment which encourages me to succeed and grow professionally where i can utilize my skills and knowledge appropriately.I am a frontend developer who loves building websites that look good and work well. I use HTML,CSS to create user-friendly designs.<p>
+    </body>
+</html>
